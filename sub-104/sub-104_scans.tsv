@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-104_T1w.nii.gz	n/a	n/a
+func/sub-104_task-milkyway_bold.nii.gz	original	1.0
+func/sub-104_task-prettymouth_bold.nii.gz	paranoia	0.963

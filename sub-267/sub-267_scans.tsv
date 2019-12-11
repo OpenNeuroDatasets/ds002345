@@ -1,0 +1,8 @@
+filename	condition	comprehension
+anat/sub-267_T1w.nii.gz	n/a	n/a
+anat/sub-267_T2w.nii.gz	n/a	n/a
+func/sub-267_task-21styear_bold.nii.gz	n/a	0.963
+func/sub-267_task-black_bold.nii.gz	n/a	0.88
+func/sub-267_task-bronx_bold.nii.gz	n/a	0.46
+func/sub-267_task-forgot_bold.nii.gz	n/a	0.46
+func/sub-267_task-piemanpni_bold.nii.gz	n/a	0.833
