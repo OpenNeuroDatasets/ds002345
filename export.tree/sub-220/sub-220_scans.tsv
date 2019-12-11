@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-220_T1w.nii.gz	n/a	n/a
+func/sub-220_task-shapesphysical_bold.nii.gz	movie-physical-social	n/a
+func/sub-220_task-shapessocial_bold.nii.gz	movie-physical-social	n/a

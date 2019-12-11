@@ -1,0 +1,13 @@
+filename	condition	comprehension
+anat/sub-127_T2w.nii.gz	n/a	n/a
+anat/sub-127_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-127_run-2_T1w.nii.gz	n/a	n/a
+anat/sub-127_run-3_T2w.nii.gz	n/a	n/a
+anat/sub-127_run-4_T1w.nii.gz	n/a	n/a
+func/sub-127_task-black_bold.nii.gz	n/a	0.76
+func/sub-127_task-bronx_bold.nii.gz	n/a	0.44
+func/sub-127_task-forgot_bold.nii.gz	n/a	0.44
+func/sub-127_task-milkyway_bold.nii.gz	synonyms	n/a
+func/sub-127_task-piemanpni_bold.nii.gz	n/a	0.683
+func/sub-127_task-shapesphysical_bold.nii.gz	movie-physical-social	n/a
+func/sub-127_task-shapessocial_bold.nii.gz	movie-physical-social	n/a
