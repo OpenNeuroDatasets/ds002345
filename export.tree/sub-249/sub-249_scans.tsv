@@ -1,0 +1,6 @@
+filename	condition	comprehension
+anat/sub-249_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-249_run-2_T1w.nii.gz	n/a	n/a
+func/sub-249_task-21styear_bold.nii.gz	n/a	0.889
+func/sub-249_task-shapesphysical_bold.nii.gz	physical-movie-social	n/a
+func/sub-249_task-shapessocial_bold.nii.gz	physical-movie-social	n/a

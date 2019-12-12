@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-153_T1w.nii.gz	n/a	n/a
+func/sub-153_task-merlin_bold.nii.gz	naive	0.174
+func/sub-153_task-sherlock_bold.nii.gz	movie	n/a

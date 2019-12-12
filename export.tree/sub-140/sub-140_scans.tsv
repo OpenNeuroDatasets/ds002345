@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-140_T1w.nii.gz	n/a	n/a
+func/sub-140_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-140_task-slumlordreach_bold.nii.gz	n/a	0.305

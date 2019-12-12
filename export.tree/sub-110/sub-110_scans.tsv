@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-110_T1w.nii.gz	n/a	n/a
+func/sub-110_task-milkyway_bold.nii.gz	vodka	1.0
+func/sub-110_task-prettymouth_bold.nii.gz	paranoia	0.963

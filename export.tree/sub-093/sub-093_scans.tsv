@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-093_T1w.nii.gz	n/a	n/a
+func/sub-093_task-milkyway_bold.nii.gz	original	1.0
+func/sub-093_task-prettymouth_bold.nii.gz	affair	0.926
