@@ -1,0 +1,8 @@
+filename	condition	comprehension
+anat/sub-058_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-058_run-2_T1w.nii.gz	n/a	n/a
+func/sub-058_task-lucy_bold.nii.gz	n/a	n/a
+func/sub-058_task-pieman_bold.nii.gz	n/a	n/a
+func/sub-058_task-shapesphysical_bold.nii.gz	social-movie-physical	8.0
+func/sub-058_task-shapessocial_bold.nii.gz	social-movie-physical	8.0
+func/sub-058_task-tunnel_bold.nii.gz	n/a	n/a
