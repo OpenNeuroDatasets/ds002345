@@ -1,0 +1,7 @@
+filename	condition	comprehension
+anat/sub-279_T1w.nii.gz	n/a	n/a
+anat/sub-279_T2w.nii.gz	n/a	n/a
+func/sub-279_task-black_bold.nii.gz	n/a	0.8
+func/sub-279_task-bronx_bold.nii.gz	n/a	0.08
+func/sub-279_task-forgot_bold.nii.gz	n/a	0.08
+func/sub-279_task-piemanpni_bold.nii.gz	n/a	0.067
