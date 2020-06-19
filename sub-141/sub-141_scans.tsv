@@ -1,4 +1,5 @@
 filename	condition	comprehension
 anat/sub-141_T1w.nii.gz	n/a	n/a
-func/sub-141_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-141_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-141_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-141_task-slumlordreach_bold.nii.gz	n/a	0.257

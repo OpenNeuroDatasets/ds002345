@@ -2,6 +2,8 @@ filename	condition	comprehension
 anat/sub-089_run-1_T1w.nii.gz	n/a	n/a
 anat/sub-089_run-2_T1w.nii.gz	n/a	n/a
 func/sub-089_task-milkyway_bold.nii.gz	vodka	0.893
+func/sub-089_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-089_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-089_task-prettymouth_bold.nii.gz	affair	0.926
 func/sub-089_task-schema_run-1_bold.nii.gz	n/a	n/a
 func/sub-089_task-schema_run-2_bold.nii.gz	n/a	n/a

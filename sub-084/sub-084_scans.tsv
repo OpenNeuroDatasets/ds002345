@@ -1,5 +1,6 @@
 filename	condition	comprehension
 anat/sub-084_T1w.nii.gz	n/a	n/a
-func/sub-084_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-084_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-084_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-084_task-prettymouth_bold.nii.gz	affair	0.889
 func/sub-084_task-slumlordreach_bold.nii.gz	n/a	0.404

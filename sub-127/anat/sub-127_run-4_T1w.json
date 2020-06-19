@@ -1,7 +1,5 @@
 {
   "AcquisitionMatrixPE": 256,
-  "AcquisitionNumber": 1,
-  "AcquisitionTime": "23:33:31.150000",
   "BaseResolution": 256,
   "BodyPartExamined": "BRAIN",
   "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
@@ -27,9 +25,9 @@
     "NORM"
   ],
   "InPlanePhaseEncodingDirectionDICOM": "ROW",
-  "InstitutionAddress": "Stadium_1952_Princeton_NJ_US_08544",
-  "InstitutionName": "Princeton_University",
-  "InstitutionalDepartmentName": "NeuroScience",
+  "InstitutionAddress": "Washington Rd, Princeton, NJ 08540, USA",
+  "InstitutionName": "Princeton University",
+  "InstitutionalDepartmentName": "Princeton Neuroscience Institute",
   "InversionTime": 1.1,
   "MRAcquisitionType": "3D",
   "MagneticFieldStrength": 3,
@@ -37,6 +35,7 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "ParallelReductionFactorInPlane": 2,
+  "ParallelReductionType": "GRAPPA",
   "PartialFourier": 1,
   "PatientPosition": "HFS",
   "PercentPhaseFOV": 100,

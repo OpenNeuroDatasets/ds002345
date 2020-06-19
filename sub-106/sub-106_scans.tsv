@@ -1,6 +1,7 @@
 filename	condition	comprehension
 anat/sub-106_T1w.nii.gz	n/a	n/a
 func/sub-106_task-milkyway_bold.nii.gz	original	0.893
-func/sub-106_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-106_task-notthefallintact_bold.nii.gz	intact-longscram	n/a
+func/sub-106_task-notthefalllongscram_bold.nii.gz	intact-longscram	n/a
 func/sub-106_task-prettymouth_bold.nii.gz	paranoia	0.926
 func/sub-106_task-slumlordreach_bold.nii.gz	n/a	0.545

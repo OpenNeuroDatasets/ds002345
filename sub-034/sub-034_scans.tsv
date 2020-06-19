@@ -2,5 +2,7 @@ filename	condition	comprehension
 anat/sub-034_run-1_T1w.nii.gz	n/a	n/a
 anat/sub-034_run-2_T1w.nii.gz	n/a	n/a
 func/sub-034_task-milkyway_bold.nii.gz	original	1.0
+func/sub-034_task-notthefallintact_bold.nii.gz	intact-longscram	n/a
+func/sub-034_task-notthefalllongscram_bold.nii.gz	intact-longscram	n/a
 func/sub-034_task-pieman_bold.nii.gz	n/a	n/a
 func/sub-034_task-prettymouth_bold.nii.gz	affair	1.0

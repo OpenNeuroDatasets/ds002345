@@ -1,5 +1,7 @@
 filename	condition	comprehension
 anat/sub-195_T1w.nii.gz	n/a	n/a
+func/sub-195_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-195_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-195_task-schema_run-1_bold.nii.gz	n/a	n/a
 func/sub-195_task-schema_run-2_bold.nii.gz	n/a	n/a
 func/sub-195_task-schema_run-3_bold.nii.gz	n/a	n/a

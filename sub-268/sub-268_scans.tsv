@@ -1,3 +1,5 @@
 filename	condition	comprehension
 anat/sub-268_T1w.nii.gz	n/a	n/a
 func/sub-268_task-21styear_bold.nii.gz	n/a	1.0
+func/sub-268_task-notthefallintact_bold.nii.gz	intact-longscram	n/a
+func/sub-268_task-notthefalllongscram_bold.nii.gz	intact-longscram	n/a

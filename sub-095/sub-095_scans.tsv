@@ -2,6 +2,8 @@ filename	condition	comprehension
 anat/sub-095_run-1_T1w.nii.gz	n/a	n/a
 anat/sub-095_run-2_T1w.nii.gz	n/a	n/a
 func/sub-095_task-milkyway_bold.nii.gz	original	0.821
+func/sub-095_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-095_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-095_task-prettymouth_bold.nii.gz	affair	0.963
 func/sub-095_task-shapesphysical_bold.nii.gz	movie-physical-social	n/a
 func/sub-095_task-shapessocial_bold.nii.gz	movie-physical-social	n/a

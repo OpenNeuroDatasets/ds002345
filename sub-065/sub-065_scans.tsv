@@ -1,7 +1,8 @@
 filename	condition	comprehension
 anat/sub-065_T1w.nii.gz	n/a	n/a
 func/sub-065_task-lucy_bold.nii.gz	n/a	n/a
-func/sub-065_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-065_task-notthefallintact_bold.nii.gz	intact-shortscram	n/a
+func/sub-065_task-notthefallshortscram_bold.nii.gz	intact-shortscram	n/a
 func/sub-065_task-pieman_bold.nii.gz	n/a	n/a
 func/sub-065_task-prettymouth_bold.nii.gz	paranoia	1.0
 func/sub-065_task-tunnel_bold.nii.gz	n/a	n/a
