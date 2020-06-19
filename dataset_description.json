@@ -36,7 +36,7 @@
         "National Institutes of Health Grant T32-MH065214",
         "Defense Advanced Research Projects Agency Grant FA8750-18-C-0213"
     ],
-    "HowToAcknowledge": "Please cite this dataset: Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. (in preparation). Narratives: fMRI data for evaluating models of naturalistic language comprehension. https://doi.org/10.18112/openneuro.ds002345.v1.2.0",
+    "HowToAcknowledge": "Please cite this dataset: Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. (2019). Narratives: fMRI data for evaluating models of naturalistic language comprehension. OpenNeuro, ds002345. https://doi.org/10.18112/openneuro.ds002345.v1.2.0",
     "License": "CC0",
     "Name": "Narratives",
     "ReferencesAndLinks": [
