@@ -1,0 +1,9 @@
+filename	condition	comprehension
+anat/sub-171_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-171_run-2_T1w.nii.gz	n/a	n/a
+func/sub-171_task-merlin_bold.nii.gz	movie	n/a
+func/sub-171_task-schema_run-1_bold.nii.gz	n/a	n/a
+func/sub-171_task-schema_run-2_bold.nii.gz	n/a	n/a
+func/sub-171_task-schema_run-3_bold.nii.gz	n/a	n/a
+func/sub-171_task-schema_run-4_bold.nii.gz	n/a	n/a
+func/sub-171_task-sherlock_bold.nii.gz	naive	0.412
