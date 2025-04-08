@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-331_T1w.nii.gz	n/a	n/a
+func/sub-331_task-notthefallintact_bold.nii.gz	intact-longscram	n/a
+func/sub-331_task-notthefalllongscram_bold.nii.gz	intact-longscram	n/a

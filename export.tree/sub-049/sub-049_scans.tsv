@@ -1,0 +1,11 @@
+filename	condition	comprehension
+anat/sub-049_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-049_run-2_T1w.nii.gz	n/a	n/a
+anat/sub-049_run-3_T1w.nii.gz	n/a	n/a
+func/sub-049_task-pieman_bold.nii.gz	n/a	n/a
+func/sub-049_task-schema_run-1_bold.nii.gz	n/a	n/a
+func/sub-049_task-schema_run-2_bold.nii.gz	n/a	n/a
+func/sub-049_task-schema_run-3_bold.nii.gz	n/a	n/a
+func/sub-049_task-schema_run-4_bold.nii.gz	n/a	n/a
+func/sub-049_task-shapesphysical_bold.nii.gz	social-movie-physical	8.0
+func/sub-049_task-shapessocial_bold.nii.gz	social-movie-physical	8.0

@@ -1,0 +1,4 @@
+filename	condition	comprehension
+anat/sub-090_T1w.nii.gz	n/a	n/a
+func/sub-090_task-milkyway_bold.nii.gz	vodka	0.929
+func/sub-090_task-prettymouth_bold.nii.gz	affair	0.963

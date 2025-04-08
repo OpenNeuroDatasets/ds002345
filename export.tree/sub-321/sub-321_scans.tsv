@@ -1,0 +1,3 @@
+filename	condition	comprehension
+anat/sub-321_T1w.nii.gz	n/a	n/a
+func/sub-321_task-notthefallintact_bold.nii.gz	intact	n/a

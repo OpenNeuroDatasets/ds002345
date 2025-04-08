@@ -1,0 +1,22 @@
+{
+  "age": {
+    "Description": "age of the participant",
+    "Units": "years"
+  },
+  "comprehension": {
+    "Description": "behavioral comprehension score ranging from 0 to 1 for corresponding task (if applicable)"
+  },
+  "condition": {
+    "Description": "within- or between-subject experimental condition for corresponding task (if applicable)"
+  },
+  "sex": {
+    "Description": "sex of the participant",
+    "Levels": {
+      "f": "female",
+      "m": "male"
+    }
+  },
+  "task": {
+    "Description": "tasks (story stimuli) collected for participant"
+  }
+}
