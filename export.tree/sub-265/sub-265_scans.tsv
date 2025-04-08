@@ -1,0 +1,8 @@
+filename	condition	comprehension
+anat/sub-265_T1w.nii.gz	n/a	n/a
+anat/sub-265_T2w.nii.gz	n/a	n/a
+func/sub-265_task-21styear_bold.nii.gz	n/a	0.926
+func/sub-265_task-black_bold.nii.gz	n/a	0.76
+func/sub-265_task-bronx_bold.nii.gz	n/a	0.64
+func/sub-265_task-forgot_bold.nii.gz	n/a	0.64
+func/sub-265_task-piemanpni_bold.nii.gz	n/a	0.6

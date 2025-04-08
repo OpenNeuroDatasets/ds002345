@@ -1,0 +1,7 @@
+filename	condition	comprehension
+anat/sub-286_T1w.nii.gz	n/a	n/a
+anat/sub-286_T2w.nii.gz	n/a	n/a
+func/sub-286_task-black_bold.nii.gz	n/a	0.66
+func/sub-286_task-bronx_bold.nii.gz	n/a	0.58
+func/sub-286_task-forgot_bold.nii.gz	n/a	0.58
+func/sub-286_task-piemanpni_bold.nii.gz	n/a	0.617
