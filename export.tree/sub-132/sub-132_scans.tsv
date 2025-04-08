@@ -1,0 +1,9 @@
+filename	condition	comprehension
+anat/sub-132_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-132_run-2_T1w.nii.gz	n/a	n/a
+func/sub-132_task-notthefall_bold.nii.gz	n/a	n/a
+func/sub-132_task-schema_run-1_bold.nii.gz	n/a	n/a
+func/sub-132_task-schema_run-2_bold.nii.gz	n/a	n/a
+func/sub-132_task-schema_run-3_bold.nii.gz	n/a	n/a
+func/sub-132_task-schema_run-4_bold.nii.gz	n/a	n/a
+func/sub-132_task-slumlordreach_bold.nii.gz	n/a	0.349
