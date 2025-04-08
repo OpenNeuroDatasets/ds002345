@@ -1,0 +1,7 @@
+filename	condition	comprehension
+anat/sub-310_T1w.nii.gz	n/a	n/a
+anat/sub-310_T2w.nii.gz	n/a	n/a
+func/sub-310_task-black_bold.nii.gz	n/a	0.92
+func/sub-310_task-bronx_bold.nii.gz	n/a	0.74
+func/sub-310_task-forgot_bold.nii.gz	n/a	0.74
+func/sub-310_task-piemanpni_bold.nii.gz	n/a	0.85
