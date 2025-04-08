@@ -1,0 +1,5 @@
+filename	condition	comprehension
+anat/sub-131_run-1_T1w.nii.gz	n/a	n/a
+anat/sub-131_run-2_T1w.nii.gz	n/a	n/a
+func/sub-131_task-21styear_bold.nii.gz	n/a	1.0
+func/sub-131_task-milkyway_bold.nii.gz	synonyms	n/a

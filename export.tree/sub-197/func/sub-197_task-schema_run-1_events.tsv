@@ -1,0 +1,5 @@
+onset	duration	trial_type	stim_file
+5.0	188.0	movie	n/a
+199.95	169.0	story	himym_audio.wav
+375.3	171.0	movie	n/a
+552.48	175.0	story	santa_audio.wav

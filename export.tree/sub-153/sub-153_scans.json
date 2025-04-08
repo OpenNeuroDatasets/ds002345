@@ -1,0 +1,11 @@
+{
+  "comprehension": {
+    "Description": "behavioral comprehension score ranging from 0 to 1 for the scan (if applicable)"
+  },
+  "condition": {
+    "Description": "within- or between-subject experimental condition for the scan (if applicable)"
+  },
+  "filename": {
+    "Description": "filename for the scan"
+  }
+}
